@@ -1,9 +1,9 @@
 # Hello.
 
-I am a developer interested in functional web applications, photonic and neuromorphic chips as a solution for the AI energy crisis, and using AI tools in product development (like vibecoding). 
+I am interested in functional web applications, photonic and neuromorphic chips as a solution for the AI energy crisis, and using AI tools in product development (like vibecoding). 
 
 ### Deployed Projects
-**[WEBSITE LINK](https://draft-mve.vercel.app)** *Developed and launched the prototype websitew for my high school entrepreneurship club.*
+**[WEBSITE LINK](https://draft-mve.vercel.app)** *Developed and launched the prototype website for my high school entrepreneurship club.*
 - Built using [JavaScript, HTML, TypeScript+more. I used Three,js and WebGL for the 3d effects]
 - Focused on clean UI and functionality for the members (no more google forms links needed in every email)
 
