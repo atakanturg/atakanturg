@@ -2,9 +2,9 @@ Functional web applications
 Photonic & Neuromorphic AI chips
 
 ### Deployed Projects
-**OFFICIAL VERSION**:[OFFICIAL](https://official-mve.vercel.app/#programs)
+**OFFICIAL VERSION**:  [OFFICIAL](https://official-mve.vercel.app/#programs)
 
-**DESIGN HEAVY VERSION**[ARTISTIC](https://draft-mve.vercel.app)** 
+**DESIGN HEAVY VERSION**:  [ARTISTIC](https://draft-mve.vercel.app)
 
 *Developed and launched the prototype website for my high school entrepreneurship club.*
 - Built using [JavaScript, HTML, TypeScript+more. I used Three,js and WebGL for the 3d effects]
