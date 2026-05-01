@@ -3,8 +3,8 @@ Photonic & Neuromorphic AI chips
 
 ### Projects
 
-**NEXUS** Onboarding Automation.
-*[Nexus](https://github.com/atakanturg/Nexus/blob/main/README.md)* — Setup once, scale infinitely: an idempotent Slack provisioner for automated enterprise onboarding of new hires into a Slack ecosystem.
+**NEXUS ONBOARDING** Onboarding Automation.
+*[Nexus Onboarding](https://github.com/atakanturg/Nexus/blob/main/README.md)* — Setup once, scale infinitely: an idempotent Slack provisioner for automated enterprise onboarding of new hires into a Slack ecosystem.
 
 **OFFICIAL Miami Venturing Entrepreneurs WEBSITE**:  [OFFICIAL](https://official-mve.vercel.app/#programs)
 
