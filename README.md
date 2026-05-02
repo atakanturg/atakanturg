@@ -5,7 +5,7 @@
 It features:
 
 **Primitive Onboarding**
-[Documentation](https://github.com/atakanturg/primitive-os/blob/main/README.md)
+[Documentation](https://github.com/atakanturg/primitive-onboarding/blob/main/README.md)
 An idempotent provisioning engine for automated corporate onboarding. Designed to eliminate manual ecosystem configuration and scale enterprise deployments infinitely.
 
 **Primitive Design Core**
