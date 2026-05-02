@@ -1,15 +1,16 @@
 ### PRIMITIVE-OS // Agentic Solutions
+[LINK](primitive-os.cc)
 *A unified ecosystem of high-performance tools and constraint engines that I have created.*
 
 It features:
 
 **Primitive Onboarding**
-[Documentation](https://github.com/atakanturg/Nexus/blob/main/README.md)
+[Documentation](https://github.com/atakanturg/primitive-os/blob/main/README.md)
 An idempotent provisioning engine for automated corporate onboarding. Designed to eliminate manual ecosystem configuration and scale enterprise deployments infinitely.
 
 **Primitive Design Core**
-[Specification](/solutions/design-core)
-A modular UI/UX constraint engine. Built to restrict AI agents, eliminate design slop, and enforce absolute visual consistency across all enterprise environments.
+[Specification]((https://github.com/atakanturg/primitive-design-core/blob/main/README.md))
+A powerful vibecoding tool designed for website UI design with. Modular UI/UX constraint engine. Built to restrict AI agents, eliminate design slop, and enforce absolute visual consistency across all enterprise environments.
 
 ***
 
