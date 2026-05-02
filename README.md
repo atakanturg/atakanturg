@@ -1,5 +1,5 @@
 ### PRIMITIVE-OS // Agentic Solutions
-[LINK](primitive-os.cc)
+[LINK](https://primitive-os.cc)
 *A unified ecosystem of high-performance tools and constraint engines that I have created.*
 
 It features:
