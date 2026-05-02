@@ -1,16 +1,21 @@
-Functional web applications
-Photonic & Neuromorphic AI chips
+### PRIMITIVE-OS // Agentic Solutions
+*A unified ecosystem of high-performance tools and constraint engines that I have created.*
 
-### Projects
+It features:
 
-**NEXUS ONBOARDING** Onboarding Automation.
-*[Nexus Onboarding](https://github.com/atakanturg/Nexus/blob/main/README.md)* — Setup once, scale infinitely: an idempotent Slack provisioner for automated enterprise onboarding of new hires into a Slack ecosystem.
+**Primitive Onboarding**
+[Documentation](https://github.com/atakanturg/Nexus/blob/main/README.md)
+An idempotent provisioning engine for automated corporate onboarding. Designed to eliminate manual ecosystem configuration and scale enterprise deployments infinitely.
 
-**OFFICIAL Miami Venturing Entrepreneurs WEBSITE**:  [OFFICIAL](https://official-mve.vercel.app/#programs)
+**Primitive Design Core**
+[Specification](/solutions/design-core)
+A modular UI/UX constraint engine. Built to restrict AI agents, eliminate design slop, and enforce absolute visual consistency across all enterprise environments.
 
-  >Design Heavy Version:  [ARTISTIC](https://draft-mve.vercel.app)
+***
 
-*Developed and launched the prototype website for my high school entrepreneurship club.*
-- Built using [JavaScript, HTML, TypeScript+more. I used Three,js and WebGL for the 3d effects]
+### EXTERNAL DEPLOYMENTS
 
-**[Terminal Screener](https://terminal-screener.vercel.app/)**: *A stock screener called **TERMINAL SCREENER** that utilizes the TradingView API for information, **Terminal Screener** delivers a premium service at no cost (new update with more screener options coming soon).
+**Miami Venturing Entrepreneurs (MVE) // Web Platform**
+[Production Infrastructure](https://official-mve.vercel.app/#programs) | [WebGL Experimental Build](https://draft-mve.vercel.app)
+Architected and deployed the official digital presence for the MVE syndicate. Engineered with a strict focus on fluid micro-interactions, negative space, and high-performance 3D rendering.
+*Stack: TypeScript, Next.js, React Three Fiber (WebGL).*
