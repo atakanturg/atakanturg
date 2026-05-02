@@ -9,7 +9,7 @@ It features:
 An idempotent provisioning engine for automated corporate onboarding. Designed to eliminate manual ecosystem configuration and scale enterprise deployments infinitely.
 
 **Primitive Design Core**
-[Specification]((https://github.com/atakanturg/primitive-design-core/blob/main/README.md))
+[Specification](https://github.com/atakanturg/primitive-design-core/blob/main/README.md)
 A powerful vibecoding tool designed for website UI design with. Modular UI/UX constraint engine. Built to restrict AI agents, eliminate design slop, and enforce absolute visual consistency across all enterprise environments.
 
 ***
