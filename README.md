@@ -1,5 +1,4 @@
 ### PRIMITIVE-OS // Capstone Project
-[LINK](https://primitive-os.cc)
 
 It features:
 **Primitive OS**
