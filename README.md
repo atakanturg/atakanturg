@@ -1,6 +1,5 @@
 ### PRIMITIVE-OS // Capstone Project
 
-It features:
 **Primitive OS**
 [Specification](https://github.com/atakanturg/primitive-os/blob/main/README.md)
 The home page for all of the primitive solutions.
