@@ -22,7 +22,7 @@
 
 ---
 
-## Primitive Sheild
+## Primitive Shield
 * **Links:** [Specification](https://github.com/atakanturg/primitive-shield/blob/main/README.md) | [Deployment](https://shield.primitive-os.cc)
 * **Description:** A tool designed to help the Miami area, specifically designed to utilize prompt engineering in order to combat predatory evictions in the gentrification process. This website was create by myself--Atakan Turgut--. and [Cohen McDaniel](https://github.com/bogfol) during the YCI hackathon challenge 5/17/2026 in Miami, FL @ Cushman School. --First Place--
 
