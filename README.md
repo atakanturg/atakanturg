@@ -4,7 +4,7 @@
 
 *Surcease App (product & actual proxy) coming soon*
 
---
+---
 ## Deltaic
 *Links:** [Specification](https://github.com/atakanturg/deltaic-home/blob/main/README.md) | [Deployment](https://deltaic.dev)
 * **Description:** The landing page for 'Deltaic', an all in one SaaS tool.
