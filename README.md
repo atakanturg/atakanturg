@@ -8,6 +8,7 @@
 ## Deltaic
 **Links:** [Specification](https://github.com/atakanturg/deltaic-home/blob/main/README.md) | [Deployment](https://deltaic.dev)
 * **Description:** The landing page for 'Deltaic', an all in one SaaS tool.
+* 
 [Deltaic App (Product)](https://app.deltaic.dev)
 * **Description:** Deltaic is an automated deployment engine for AI-generated tools, essentially, you build your own SaaS, but you are your own customer. The AI agents take your input, write the scripts, and Deltaic instantly deploys them—giving you a unified platform to turn AI code into live, usable tools. Effectively, we simplify the entire agentic pipeline.
 
