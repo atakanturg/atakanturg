@@ -1,4 +1,4 @@
-## Surcease Home
+## Surcease
 * **Links:** [Specification](https://github.com/atakanturg/surcease-home/blob/main/README.md) | [Deployment](https://surcease.dev)
 * **Description:** The landing page for 'Surcease', a locally hosted MCP proxy to prevent prompt injection and other security risks that arise due to agentic coding and vibecoding.
 
@@ -6,7 +6,7 @@
 
 ---
 ## Deltaic
-*Links:** [Specification](https://github.com/atakanturg/deltaic-home/blob/main/README.md) | [Deployment](https://deltaic.dev)
+**Links:** [Specification](https://github.com/atakanturg/deltaic-home/blob/main/README.md) | [Deployment](https://deltaic.dev)
 * **Description:** The landing page for 'Deltaic', an all in one SaaS tool.
 [Deltaic App (Product)](https://app.deltaic.dev)
 * **Description:** Deltaic is an automated deployment engine for AI-generated tools, essentially, you build your own SaaS, but you are your own customer. The AI agents take your input, write the scripts, and Deltaic instantly deploys them—giving you a unified platform to turn AI code into live, usable tools. Effectively, we simplify the entire agentic pipeline.
