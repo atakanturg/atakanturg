@@ -1,16 +1,24 @@
 ## Surcease
-* **Links:** [Specification](https://github.com/atakanturg/surcease-home/blob/main/README.md) | [Deployment](https://surcease.dev)
-* **Description:** The landing page for 'Surcease', a locally hosted MCP proxy to prevent prompt injection and other security risks that arise due to agentic coding and vibecoding.
+* **Links:** [Landing Page](https://surcease.dev) | [Prototype](https://app.surcease.dev)
+* **Description:** Surcease is a *cryptographic passport and visa system for autonomous AI agents*. When Claude Cowork books your hotel, you use a LangGraph agent, CrewAI crew, or any autonomous AI calls an external API, it authenticates with a raw API key or OAuth token. That token has no context baked in, meaning there is no telling:
 
-*Surcease App (product & actual proxy) coming soon*
+- Whether it's a legitimate agent or a prompt-injected impostor acting on your behalf
+- Which specific operations the agent is allowed to perform.
+- Whether the calling agent is the one you delegated to or a downstream agent that borrowed credentials
+- Whether the call happened at all, or what the result was
+
+Every AI agent today is effectively acting with ambient authority it was never explicitly granted.
+
+Surcease attempts to fix this problem through "agentic passaport" and "visas", which act as their real world counterparts, but for AI agents.
 
 ---
 ## Deltaic
-**Links:** [Specification](https://github.com/atakanturg/deltaic-home/blob/main/README.md) | [Deployment](https://deltaic.dev)
-* **Description:** The landing page for 'Deltaic', an all in one SaaS tool.
-* 
-[Deltaic App (Product)](https://app.deltaic.dev)
-* **Description:** Deltaic is an automated deployment engine for AI-generated tools, essentially, you build your own SaaS, but you are your own customer. The AI agents take your input, write the scripts, and Deltaic instantly deploys them—giving you a unified platform to turn AI code into live, usable tools. Effectively, we simplify the entire agentic pipeline.
+* **Links:** [Landing Page](https://deltaic.dev) | [Prototype](https://app.deltaic.dev)
+* **Description:** Deltaic is a stock research platform that pulls together multiple data sources to help you make better investment decisions.
+
+The algorithm takes in three main soruces of information: price movement patterns, insider trading activity (what company executives are buying and selling), and congressional trading records (which politicians are trading which stocks). The software then uses topology to graph the price movements, and leverages MLMs to analyze insider and congressional activity to output a "DeltaScore".
+
+Everything from our backtesting, to creating your own watchlist is available (prototype live now).
 
 ---
 ## Primitive OS
