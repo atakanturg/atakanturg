@@ -1,15 +1,9 @@
 ## Surcease
 * **Links:** [Landing Page](https://surcease.dev) | [Prototype](https://app.surcease.dev)
-* **Description:** Surcease is a *cryptographic passport and visa system for autonomous AI agents*. When Claude Cowork books your hotel, you use a LangGraph agent, CrewAI crew, or any autonomous AI calls an external API, it authenticates with a raw API key or OAuth token. That token has no context baked in, meaning there is no telling:
+* **Description:** Surcease is a *cryptographic passport and visa system for autonomous AI agents*. When Claude Cowork books your hotel, you use a LangGraph agent, CrewAI crew, or any autonomous AI calls an external API, it authenticates with a raw API key or OAuth token. That token has no context baked in, meaning there is no telling the purpose, permission, or validity of the agent acting on your behalf.
 
-- Whether it's a legitimate agent or a prompt-injected impostor acting on your behalf
-- Which specific operations the agent is allowed to perform.
-- Whether the calling agent is the one you delegated to or a downstream agent that borrowed credentials
-- Whether the call happened at all, or what the result was
 
-Every AI agent today is effectively acting with ambient authority it was never explicitly granted.
-
-Surcease attempts to fix this problem through "agentic passaport" and "visas", which act as their real world counterparts, but for AI agents.
+Surcease attempts to fix this problem through "agentic passaports" and "visas", which act as their real world counterparts, but for AI agents.
 
 ---
 ## Deltaic
